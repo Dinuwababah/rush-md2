@@ -10,10 +10,6 @@
 <div>
 <br>
 
-  git branch -m packege.json packege.json
-  git fetch origin
-  git branch -u origin/packege.json packege.json
-  git remote set-head origin -a
   
 ## Deploy to Heroku ↓
 
