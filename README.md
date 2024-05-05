@@ -10,6 +10,11 @@
 <div>
 <br>
 
+  git branch -m packege.json packege.json
+  git fetch origin
+  git branch -u origin/packege.json packege.json
+  git remote set-head origin -a
+  
 ## Deploy to Heroku ↓
 
 <a href="https://github.com/sou6av/deploy-raganork/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
